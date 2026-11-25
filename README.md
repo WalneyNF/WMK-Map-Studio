@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/branding/logo.svg" alt="WMK Map Studio" width="900"></p>
+<p align="center"><img src="assets/branding/logo-principal.webp" alt="WMK Map Studio" width="900"></p>
 
 # WMK Map Studio v0.2.1
 
