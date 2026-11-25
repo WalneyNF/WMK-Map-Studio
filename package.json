@@ -1,0 +1,23 @@
+{
+  "name": "wmk-map-studio",
+  "version": "0.2.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Walney Moreira Klein",
+    "email": "walneyk@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WalneyNF/WMK-Map-Studio.git"
+  }
+}
